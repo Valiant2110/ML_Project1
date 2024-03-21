@@ -3,4 +3,5 @@ numpy
 seaborn 
 matplotlib
 tensorflow
+datetime
 -e .
