@@ -4,4 +4,6 @@ seaborn
 matplotlib
 tensorflow
 datetime
+scikit-learn
+xgboost
 -e .
