@@ -6,4 +6,6 @@ tensorflow
 datetime
 scikit-learn
 xgboost
+dill
+flask
 -e .
